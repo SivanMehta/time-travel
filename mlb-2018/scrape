@@ -1,0 +1,5 @@
+#/bin/bash
+
+for id in `seq 108 158`; do
+  curl http://www.ticketing-client.com/ticketing-client/csv/EventTicketPromotionPrice.tiksrv\?team_id\=$id -o data/$id.csv
+done
