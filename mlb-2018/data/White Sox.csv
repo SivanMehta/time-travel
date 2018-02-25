@@ -1,34 +1,21 @@
 START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
-02/25/18,02:05 PM,03:05 PM,Reds at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com ----- Local Radio: WGN 720",02/25/18,02/25/18,05:05 PM,06:05 PM,FALSE,TRUE,02/25/18,01:05 PM,02:05 PM,FREE,BUSY
-02/26/18,02:05 PM,03:05 PM,Athletics at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com",02/26/18,02/26/18,05:05 PM,06:05 PM,FALSE,TRUE,02/26/18,01:05 PM,02:05 PM,FREE,BUSY
+02/23/18,02:05 PM,03:05 PM,White Sox at Dodgers,Camelback Ranch - Glendale,"Local TV: MLB.com ----- Local Radio: WGN 720",02/23/18,02/23/18,05:05 PM,06:05 PM,FALSE,TRUE,02/23/18,01:05 PM,02:05 PM,FREE,BUSY
+02/24/18,02:10 PM,03:10 PM,White Sox at Mariners,Peoria Stadium - Peoria,"",02/24/18,02/24/18,05:10 PM,06:10 PM,FALSE,TRUE,02/24/18,01:10 PM,02:10 PM,FREE,BUSY
 02/27/18,02:05 PM,03:05 PM,White Sox at Cubs,Sloan Park - Mesa,"Local Radio: WGN 720",02/27/18,02/27/18,05:05 PM,06:05 PM,FALSE,TRUE,02/27/18,01:05 PM,02:05 PM,FREE,BUSY
-02/28/18,02:05 PM,03:05 PM,Rangers at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com",02/28/18,02/28/18,05:05 PM,06:05 PM,FALSE,TRUE,02/28/18,01:05 PM,02:05 PM,FREE,BUSY
 03/01/18,02:05 PM,03:05 PM,White Sox at Reds,Goodyear Ballpark - Goodyear,"",03/01/18,03/01/18,05:05 PM,06:05 PM,FALSE,TRUE,03/01/18,01:05 PM,02:05 PM,FREE,BUSY
-03/02/18,02:05 PM,03:05 PM,Dodgers at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com",03/02/18,03/02/18,05:05 PM,06:05 PM,FALSE,TRUE,03/02/18,01:05 PM,02:05 PM,FREE,BUSY
 03/03/18,02:05 PM,03:05 PM,White Sox at Royals,Surprise Stadium - Surprise,"",03/03/18,03/03/18,05:05 PM,06:05 PM,FALSE,TRUE,03/03/18,01:05 PM,02:05 PM,FREE,BUSY
-03/04/18,02:05 PM,03:05 PM,Padres at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com",03/04/18,03/04/18,05:05 PM,06:05 PM,FALSE,TRUE,03/04/18,01:05 PM,02:05 PM,FREE,BUSY
 03/05/18,02:05 PM,03:05 PM,White Sox at Athletics,Hohokam Stadium - Mesa,"",03/05/18,03/05/18,05:05 PM,06:05 PM,FALSE,TRUE,03/05/18,01:05 PM,02:05 PM,FREE,BUSY
-03/06/18,02:05 PM,03:05 PM,Brewers at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com ----- Local Radio: WGN 720",03/06/18,03/06/18,05:05 PM,06:05 PM,FALSE,TRUE,03/06/18,01:05 PM,02:05 PM,FREE,BUSY
-03/07/18,02:05 PM,03:05 PM,Reds at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com",03/07/18,03/07/18,05:05 PM,06:05 PM,FALSE,TRUE,03/07/18,01:05 PM,02:05 PM,FREE,BUSY
 03/08/18,02:05 PM,03:05 PM,White Sox at Rangers,Surprise Stadium - Surprise,"",03/08/18,03/08/18,05:05 PM,06:05 PM,FALSE,TRUE,03/08/18,01:05 PM,02:05 PM,FREE,BUSY
-03/08/18,02:05 PM,03:05 PM,Royals at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com",03/08/18,03/08/18,05:05 PM,06:05 PM,FALSE,TRUE,03/08/18,01:05 PM,02:05 PM,FREE,BUSY
 03/09/18,02:10 PM,03:10 PM,White Sox at Padres,Peoria Stadium - Peoria,"",03/09/18,03/09/18,05:10 PM,06:10 PM,FALSE,TRUE,03/09/18,01:10 PM,02:10 PM,FREE,BUSY
 03/10/18,02:05 PM,03:05 PM,White Sox at Cubs,Sloan Park - Mesa,"Local TV: WGN ----- Local Radio: WGN 720",03/10/18,03/10/18,05:05 PM,06:05 PM,FALSE,TRUE,03/10/18,01:05 PM,02:05 PM,FREE,BUSY
-03/11/18,03:05 PM,04:05 PM,D-backs at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com ----- Local Radio: WGN 720",03/11/18,03/11/18,06:05 PM,07:05 PM,FALSE,TRUE,03/11/18,02:05 PM,03:05 PM,FREE,BUSY
 03/12/18,08:40 PM,09:40 PM,White Sox at Mariners,Peoria Stadium - Peoria,"Local Radio: WGN 720",03/12/18,03/13/18,11:40 PM,12:40 AM,FALSE,TRUE,03/12/18,07:40 PM,08:40 PM,FREE,BUSY
 03/14/18,03:05 PM,04:05 PM,White Sox at Brewers,Maryvale Baseball Park - Phoenix,"",03/14/18,03/14/18,06:05 PM,07:05 PM,FALSE,TRUE,03/14/18,02:05 PM,03:05 PM,FREE,BUSY
 03/15/18,08:10 PM,09:10 PM,White Sox at Angels,Tempe Diablo Stadium - Tempe,"",03/15/18,03/16/18,11:10 PM,12:10 AM,FALSE,TRUE,03/15/18,07:10 PM,08:10 PM,FREE,BUSY
-03/16/18,03:05 PM,04:05 PM,Cubs at White Sox,Camelback Ranch - Glendale,"Local TV: NBC Sports Chicago- MLBN",03/16/18,03/16/18,06:05 PM,07:05 PM,FALSE,TRUE,03/16/18,02:05 PM,03:05 PM,FREE,BUSY
-03/17/18,03:05 PM,04:05 PM,Dodgers at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com- MLBN",03/17/18,03/17/18,06:05 PM,07:05 PM,FALSE,TRUE,03/17/18,02:05 PM,03:05 PM,FREE,BUSY
 03/18/18,03:05 PM,04:05 PM,White Sox at Athletics,Hohokam Stadium - Mesa,"",03/18/18,03/18/18,06:05 PM,07:05 PM,FALSE,TRUE,03/18/18,02:05 PM,03:05 PM,FREE,BUSY
 03/19/18,03:10 PM,04:10 PM,White Sox at D-backs,Salt River Fields at Talking Stick - Scottsdale,"Local TV: NBC Sports Chicago- MLBN",03/19/18,03/19/18,06:10 PM,07:10 PM,FALSE,TRUE,03/19/18,02:10 PM,03:10 PM,FREE,BUSY
-03/20/18,03:05 PM,04:05 PM,Rangers at White Sox,Camelback Ranch - Glendale,"Local TV: NBC Sports Chicago- MLBN",03/20/18,03/20/18,06:05 PM,07:05 PM,FALSE,TRUE,03/20/18,02:05 PM,03:05 PM,FREE,BUSY
-03/21/18,03:05 PM,04:05 PM,Padres at White Sox,Camelback Ranch - Glendale,"Local TV: NBC Sports Chicago",03/21/18,03/21/18,06:05 PM,07:05 PM,FALSE,TRUE,03/21/18,02:05 PM,03:05 PM,FREE,BUSY
 03/22/18,08:40 PM,09:40 PM,White Sox at D-backs,Salt River Fields at Talking Stick - Scottsdale,"",03/22/18,03/23/18,11:40 PM,12:40 AM,FALSE,TRUE,03/22/18,07:40 PM,08:40 PM,FREE,BUSY
-03/23/18,03:05 PM,04:05 PM,Mariners at White Sox,Camelback Ranch - Glendale,"Local TV: MLB.com ----- Local Radio: WGN 720",03/23/18,03/23/18,06:05 PM,07:05 PM,FALSE,TRUE,03/23/18,02:05 PM,03:05 PM,FREE,BUSY
 03/24/18,02:05 PM,03:05 PM,White Sox at Dodgers,Camelback Ranch - Glendale,"Local TV: MLB.com",03/24/18,03/24/18,05:05 PM,06:05 PM,FALSE,TRUE,03/24/18,01:05 PM,02:05 PM,FREE,BUSY
-03/24/18,12:05 PM,03:05 PM,at Dodgers,Camelback Ranch - Glendale,"",03/24/18,03/24/18,03:05 PM,06:05 PM,FALSE,TRUE,03/24/18,11:05 AM,02:05 PM,FREE,BUSY
-03/25/18,02:05 PM,03:05 PM,Brewers at White Sox,Camelback Ranch - Glendale,"Local TV: NBC Sports Chicago ----- Local Radio: WGN 720",03/25/18,03/25/18,05:05 PM,06:05 PM,FALSE,TRUE,03/25/18,01:05 PM,02:05 PM,FREE,BUSY
+03/26/18,05:05 PM,06:05 PM,White Sox at Knights,BB&T Ballpark - Charlotte,"",03/26/18,03/26/18,08:05 PM,09:05 PM,FALSE,TRUE,03/26/18,04:05 PM,05:05 PM,FREE,BUSY
 03/29/18,03:15 PM,04:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,"Local TV: NBCSCH ----- Local Radio: WGN 720",03/29/18,03/29/18,06:15 PM,07:15 PM,FALSE,TRUE,03/29/18,02:15 PM,03:15 PM,FREE,BUSY
 03/31/18,06:15 PM,07:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,"Local TV: WGN ----- Local Radio: WGN 720",03/31/18,03/31/18,09:15 PM,10:15 PM,FALSE,TRUE,03/31/18,05:15 PM,06:15 PM,FREE,BUSY
 04/01/18,01:15 PM,02:15 PM,White Sox at Royals,Kauffman Stadium - Kansas City,"Local TV: WGN ----- Local Radio: WGN 720",04/01/18,04/01/18,04:15 PM,05:15 PM,FALSE,TRUE,04/01/18,12:15 PM,01:15 PM,FREE,BUSY
@@ -56,15 +43,29 @@ START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DA
 05/25/18,06:10 PM,07:10 PM,White Sox at Tigers,Comerica Park - Detroit,"Local TV: WGN ----- Local Radio: WGN 720",05/25/18,05/25/18,09:10 PM,10:10 PM,FALSE,TRUE,05/25/18,05:10 PM,06:10 PM,FREE,BUSY
 05/26/18,03:10 PM,04:10 PM,White Sox at Tigers,Comerica Park - Detroit,"Local TV: NBCSCH ----- Local Radio: WGN 720",05/26/18,05/26/18,06:10 PM,07:10 PM,FALSE,TRUE,05/26/18,02:10 PM,03:10 PM,FREE,BUSY
 05/27/18,12:10 PM,01:10 PM,White Sox at Tigers,Comerica Park - Detroit,"Local TV: NBCSCH ----- Local Radio: WGN 720",05/27/18,05/27/18,03:10 PM,04:10 PM,FALSE,TRUE,05/27/18,11:10 AM,12:10 PM,FREE,BUSY
+05/28/18,03:10 PM,04:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: WGN ----- Local Radio: WGN 720",05/28/18,05/28/18,06:10 PM,07:10 PM,FALSE,TRUE,05/28/18,02:10 PM,03:10 PM,FREE,BUSY
+05/29/18,05:10 PM,06:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: NBCSCH ----- Local Radio: WGN 720",05/29/18,05/29/18,08:10 PM,09:10 PM,FALSE,TRUE,05/29/18,04:10 PM,05:10 PM,FREE,BUSY
+05/30/18,12:10 PM,01:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: NBCSCH ----- Local Radio: WGN 720",05/30/18,05/30/18,03:10 PM,04:10 PM,FALSE,TRUE,05/30/18,11:10 AM,12:10 PM,FREE,BUSY
 06/05/18,07:10 PM,08:10 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: NBCSCH ----- Local Radio: WGN 720",06/05/18,06/05/18,10:10 PM,11:10 PM,FALSE,TRUE,06/05/18,06:10 PM,07:10 PM,FREE,BUSY
 06/06/18,07:10 PM,08:10 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: NBCSCH ----- Local Radio: WGN 720",06/06/18,06/06/18,10:10 PM,11:10 PM,FALSE,TRUE,06/06/18,06:10 PM,07:10 PM,FREE,BUSY
 06/07/18,12:10 PM,01:10 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: WGN ----- Local Radio: WGN 720",06/07/18,06/07/18,03:10 PM,04:10 PM,FALSE,TRUE,06/07/18,11:10 AM,12:10 PM,FREE,BUSY
 06/08/18,06:10 PM,07:10 PM,White Sox at Red Sox,Fenway Park - Boston,"Local TV: WGN ----- Local Radio: WGN 720",06/08/18,06/08/18,09:10 PM,10:10 PM,FALSE,TRUE,06/08/18,05:10 PM,06:10 PM,FREE,BUSY
 06/09/18,03:05 PM,04:05 PM,White Sox at Red Sox,Fenway Park - Boston,"Local TV: NBCSCH ----- Local Radio: WGN 720",06/09/18,06/09/18,06:05 PM,07:05 PM,FALSE,TRUE,06/09/18,02:05 PM,03:05 PM,FREE,BUSY
 06/10/18,12:05 PM,01:05 PM,White Sox at Red Sox,Fenway Park - Boston,"Local TV: NBCSCH ----- Local Radio: WGN 720",06/10/18,06/10/18,03:05 PM,04:05 PM,FALSE,TRUE,06/10/18,11:05 AM,12:05 PM,FREE,BUSY
+06/18/18,06:10 PM,07:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: NBCSCH+ ----- Local Radio: WGN 720",06/18/18,06/18/18,09:10 PM,10:10 PM,FALSE,TRUE,06/18/18,05:10 PM,06:10 PM,FREE,BUSY
+06/19/18,06:10 PM,07:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: WGN ----- Local Radio: WGN 720",06/19/18,06/19/18,09:10 PM,10:10 PM,FALSE,TRUE,06/19/18,05:10 PM,06:10 PM,FREE,BUSY
+06/20/18,12:10 PM,01:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: NBCSCH ----- Local Radio: WGN 720",06/20/18,06/20/18,03:10 PM,04:10 PM,FALSE,TRUE,06/20/18,11:10 AM,12:10 PM,FREE,BUSY
+06/29/18,07:05 PM,08:05 PM,White Sox at Rangers,Globe Life Park in Arlington - Arlington,"Local TV: WGN ----- Local Radio: WGN 720",06/29/18,06/29/18,10:05 PM,11:05 PM,FALSE,TRUE,06/29/18,06:05 PM,07:05 PM,FREE,BUSY
+06/30/18,08:05 PM,09:05 PM,White Sox at Rangers,Globe Life Park in Arlington - Arlington,"Local TV: NBCSCH ----- Local Radio: WGN 720",06/30/18,07/01/18,11:05 PM,12:05 AM,FALSE,TRUE,06/30/18,07:05 PM,08:05 PM,FREE,BUSY
+07/01/18,02:05 PM,03:05 PM,White Sox at Rangers,Globe Life Park in Arlington - Arlington,"Local TV: NBCSCH ----- Local Radio: WGN 720",07/01/18,07/01/18,05:05 PM,06:05 PM,FALSE,TRUE,07/01/18,01:05 PM,02:05 PM,FREE,BUSY
 07/02/18,06:10 PM,07:10 PM,White Sox at Reds,Great American Ball Park - Cincinnati,"Local TV: NBCSCH ----- Local Radio: WGN 720",07/02/18,07/02/18,09:10 PM,10:10 PM,FALSE,TRUE,07/02/18,05:10 PM,06:10 PM,FREE,BUSY
 07/03/18,06:10 PM,07:10 PM,White Sox at Reds,Great American Ball Park - Cincinnati,"Local TV: WGN ----- Local Radio: WGN 720",07/03/18,07/03/18,09:10 PM,10:10 PM,FALSE,TRUE,07/03/18,05:10 PM,06:10 PM,FREE,BUSY
 07/04/18,06:10 PM,07:10 PM,White Sox at Reds,Great American Ball Park - Cincinnati,"Local TV: NBCSCH ----- Local Radio: WGN 720",07/04/18,07/04/18,09:10 PM,10:10 PM,FALSE,TRUE,07/04/18,05:10 PM,06:10 PM,FREE,BUSY
+07/05/18,07:10 PM,08:10 PM,White Sox at Astros,Minute Maid Park - Houston,"Local TV: NBCSCH ----- Local Radio: WGN 720",07/05/18,07/05/18,10:10 PM,11:10 PM,FALSE,TRUE,07/05/18,06:10 PM,07:10 PM,FREE,BUSY
+07/06/18,07:10 PM,08:10 PM,White Sox at Astros,Minute Maid Park - Houston,"Local TV: NBCSCH ----- Local Radio: WGN 720",07/06/18,07/06/18,10:10 PM,11:10 PM,FALSE,TRUE,07/06/18,06:10 PM,07:10 PM,FREE,BUSY
+07/07/18,03:10 PM,04:10 PM,White Sox at Astros,Minute Maid Park - Houston,"Local TV: WGN ----- Local Radio: WGN 720",07/07/18,07/07/18,06:10 PM,07:10 PM,FALSE,TRUE,07/07/18,02:10 PM,03:10 PM,FREE,BUSY
+07/08/18,01:10 PM,02:10 PM,White Sox at Astros,Minute Maid Park - Houston,"Local TV: NBCSCH ----- Local Radio: WGN 720",07/08/18,07/08/18,04:10 PM,05:10 PM,FALSE,TRUE,07/08/18,12:10 PM,01:10 PM,FREE,BUSY
+07/17/18,,,NL All-Stars at AL All-Stars - Time TBD,Nationals Park - Washington,"",07/17/18,07/17/18,,,FALSE,TRUE,07/17/18,,,FREE,BUSY
 07/20/18,09:10 PM,10:10 PM,White Sox at Mariners,Safeco Field - Seattle,"Local TV: WGN ----- Local Radio: WGN 720",07/21/18,07/21/18,12:10 AM,01:10 AM,FALSE,TRUE,07/20/18,08:10 PM,09:10 PM,FREE,BUSY
 07/21/18,09:10 PM,10:10 PM,White Sox at Mariners,Safeco Field - Seattle,"Local TV: NBCSCH ----- Local Radio: WGN 720",07/22/18,07/22/18,12:10 AM,01:10 AM,FALSE,TRUE,07/21/18,08:10 PM,09:10 PM,FREE,BUSY
 07/22/18,03:10 PM,04:10 PM,White Sox at Mariners,Safeco Field - Seattle,"Local TV: WGN ----- Local Radio: WGN 720",07/22/18,07/22/18,06:10 PM,07:10 PM,FALSE,TRUE,07/22/18,02:10 PM,03:10 PM,FREE,BUSY
@@ -91,6 +92,9 @@ START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DA
 09/14/18,06:05 PM,07:05 PM,White Sox at Orioles,Oriole Park at Camden Yards - Baltimore,"Local TV: NBCSCH ----- Local Radio: WGN 720",09/14/18,09/14/18,09:05 PM,10:05 PM,FALSE,TRUE,09/14/18,05:05 PM,06:05 PM,FREE,BUSY
 09/15/18,06:05 PM,07:05 PM,White Sox at Orioles,Oriole Park at Camden Yards - Baltimore,"Local TV: WGN ----- Local Radio: WGN 720",09/15/18,09/15/18,09:05 PM,10:05 PM,FALSE,TRUE,09/15/18,05:05 PM,06:05 PM,FREE,BUSY
 09/16/18,12:05 PM,01:05 PM,White Sox at Orioles,Oriole Park at Camden Yards - Baltimore,"Local TV: NBCSCH ----- Local Radio: WGN 720",09/16/18,09/16/18,03:05 PM,04:05 PM,FALSE,TRUE,09/16/18,11:05 AM,12:05 PM,FREE,BUSY
+09/18/18,06:10 PM,07:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: NBCSCH ----- Local Radio: WGN 720",09/18/18,09/18/18,09:10 PM,10:10 PM,FALSE,TRUE,09/18/18,05:10 PM,06:10 PM,FREE,BUSY
+09/19/18,06:10 PM,07:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: WGN ----- Local Radio: WGN 720",09/19/18,09/19/18,09:10 PM,10:10 PM,FALSE,TRUE,09/19/18,05:10 PM,06:10 PM,FREE,BUSY
+09/20/18,06:10 PM,07:10 PM,White Sox at Indians,Progressive Field - Cleveland,"Local TV: NBCSCH ----- Local Radio: WGN 720",09/20/18,09/20/18,09:10 PM,10:10 PM,FALSE,TRUE,09/20/18,05:10 PM,06:10 PM,FREE,BUSY
 09/28/18,07:10 PM,08:10 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: NBCSCH ----- Local Radio: WGN 720",09/28/18,09/28/18,10:10 PM,11:10 PM,FALSE,TRUE,09/28/18,06:10 PM,07:10 PM,FREE,BUSY
 09/29/18,06:10 PM,07:10 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: NBCSCH ----- Local Radio: WGN 720",09/29/18,09/29/18,09:10 PM,10:10 PM,FALSE,TRUE,09/29/18,05:10 PM,06:10 PM,FREE,BUSY
 09/30/18,02:10 PM,03:10 PM,White Sox at Twins,Target Field - Minneapolis,"Local TV: WGN ----- Local Radio: WGN 720",09/30/18,09/30/18,05:10 PM,06:10 PM,FALSE,TRUE,09/30/18,01:10 PM,02:10 PM,FREE,BUSY
