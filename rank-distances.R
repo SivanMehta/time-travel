@@ -11,6 +11,5 @@ park.distances %>%
   ggplot() +
     aes(name, distance) +
     geom_col() +
-    coord_flip() + 
-    labs(x = "Park", y = "Distance in Miles")
-  
+    coord_flip() +
+    labs(x = "Park", y = "Mean Distance in Miles to all other parks")
