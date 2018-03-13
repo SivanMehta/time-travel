@@ -5,7 +5,7 @@ library(lubridate)
 park.distances <- read.csv('./data/distance matrix.csv')
 parks <- unique(park.distances$name)
 park.distances <- park.distances %>%
-  add_row(stad1 = 'lol', stad2 = 'lol2', name = parks, name.1 = parks, dist1 = 0)
+  add_row(home.team = unique(park.distances$home.team), name = parks, name.1 = parks, dist1 = 0)
 
 teams <- tibble(team.name = list.files("./data")) %>%
   separate(team.name, "team.name", sep = ".csv", extra = "drop") %>%
@@ -34,9 +34,3 @@ for(team in teams) {
   team.schedule <- get.total.distances(team)
   overall.schedule <- rbind(overall.schedule, team.schedule)
 }
-
-overall.schedule %>%
-  ggplot() +
-    aes(x = as.Date(START.DATE, "1970-01-01"), y = total.distance, colour = team) +
-    geom_line() +
-    labs(x = "Date", y = "Total Distance Traveled")
