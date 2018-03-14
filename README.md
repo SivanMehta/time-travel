@@ -12,7 +12,7 @@ What can we learn if we look at the time MLB teams will travel over the course o
 
 So far I have generated a these graphs:
 
-# Mean distance to all other parks. 
+# Mean distance to all other parks.
 
 ![](plots/parks-by-avg-distance.png)
 
