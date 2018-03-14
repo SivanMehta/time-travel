@@ -1,12 +1,15 @@
 library(ggplot2)
 library(dplyr)
+library(directlabels)
 
 source("./compile.R")
 
 overall.schedule %>%
   mutate(date = as.Date(START.DATE, "1970-01-01")) %>%
   ggplot() +
-  geom_line(aes(x = date, y = total.distance, colour = team)) +
-  geom_text(aes(label = team, colour = team, x = max(date), y = total.distance), hjust = -.1) +
+  aes(x = date, y = total.distance, colour = team, group = team) +
+  geom_line() +
+  geom_dl(aes(label = team), method = list(dl.trans(x = x - .2), "last.points")) +
   
-  labs(x = "Date", y = "Total Distance Traveled")
+  labs(x = "Date", y = "Total Distance Traveled") +
+  theme(legend.position = "none")
